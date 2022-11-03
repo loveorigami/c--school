@@ -9,7 +9,7 @@ namespace Teach.Block01
         /// </summary>
         public void Task01()
         {
-            Console.WriteLine("Hello. I am wait");
+            Console.WriteLine("Hello. I am wait next lesson");
         }
     }
 }
