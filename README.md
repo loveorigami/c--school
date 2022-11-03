@@ -1,2 +1,2 @@
-# c--school
+# c# school
 My son teaching
