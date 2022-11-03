@@ -5,7 +5,7 @@ namespace Teach.Block01
     public class Les07
     {
         /// <summary>
-        /// todo Завтра проверить
+        /// Завтра проверить
         /// </summary>
         public void Task01()
         {
